@@ -1,6 +1,7 @@
-<div align="center">
 
 ### Hello friend, welcome!
+
+<div align="center">
 
 #### I am, Vynicyus Candido ✌️
 
@@ -10,7 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,docker" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vynicyus-candido-b3a477265)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vynicyuscandido/)
