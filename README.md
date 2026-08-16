@@ -6,7 +6,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VynicyusCandido&theme=tokyonight&hide_border=true&background=00000000" />
 
+<br/>
+
 <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,docker" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=VynicyusCandido&theme=tokyonight&hide_border=true&background=00000000" />
 
