@@ -1,12 +1,12 @@
 <div align="center">
 
-Hello friend, welcome!
+###Hello friend, welcome!
 
 #### I am, Vynicyus Candido ✌️
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VynicyusCandido&theme=tokyonight&hide_border=true&background=00000000" />
 
-**Software Engineer**
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,docker" />
 
 <img src="https://streak-stats.demolab.com/?user=VynicyusCandido&theme=tokyonight&hide_border=true&background=00000000" />
 
@@ -16,9 +16,5 @@ Hello friend, welcome!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vynicyuscandido@gmail.com)
 
 <br/>
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,docker" />
 
 </div>
